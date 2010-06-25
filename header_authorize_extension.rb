@@ -1,4 +1,4 @@
-require_dependency 'application'
+require_dependency 'application_controller'
 HEADER_AUTHORIZE_KEY = 'authorization.header'
 HEADER_AUTHORIZE_ATTR = 'authorization.attribute'
 HEADER_AUTHORIZE_DEV_ACCOUNT = 'authorization.development.account'
